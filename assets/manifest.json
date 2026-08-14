@@ -1,0 +1,543 @@
+{
+  "overview": {
+    "label": "Selected Works",
+    "items": [
+      {
+        "src": "assets/overview/010-0050-test.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 225586
+      },
+      {
+        "src": "assets/overview/dl-ext-park-basketball-a.jpg",
+        "w": 1600,
+        "h": 936,
+        "size": 167297
+      },
+      {
+        "src": "assets/overview/dl-int-halloween-maze-a-construction-6.jpg",
+        "w": 1600,
+        "h": 640,
+        "size": 143647
+      },
+      {
+        "src": "assets/overview/dl-int-mila-bedroom-messy-a.jpg",
+        "w": 1600,
+        "h": 901,
+        "size": 160787
+      },
+      {
+        "src": "assets/overview/img-20150108-021305flat.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 203672
+      },
+      {
+        "src": "assets/overview/limboquad-v2.jpg",
+        "w": 1600,
+        "h": 836,
+        "size": 75690
+      },
+      {
+        "src": "assets/overview/sliceedit-1.jpg",
+        "w": 1600,
+        "h": 1200,
+        "size": 197762
+      },
+      {
+        "src": "assets/overview/streetsceneedit.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 157125
+      },
+      {
+        "src": "assets/overview/untitled-3.jpg",
+        "w": 680,
+        "h": 510,
+        "size": 59825
+      },
+      {
+        "src": "assets/overview/bg-corn-field-01-key.jpg",
+        "w": 1600,
+        "h": 884,
+        "size": 250368
+      },
+      {
+        "src": "assets/overview/bg-ext-peg-house-03-m-color-v05-up.jpg",
+        "w": 1600,
+        "h": 962,
+        "size": 195444
+      },
+      {
+        "src": "assets/overview/bg-school-hall-09-color-v02-up-char.jpg",
+        "w": 1600,
+        "h": 728,
+        "size": 187224
+      },
+      {
+        "src": "assets/overview/bg-waterslide-01-color-v03-up-char-sml.jpg",
+        "w": 1600,
+        "h": 1028,
+        "size": 274576
+      },
+      {
+        "src": "assets/overview/colorscriptsample.jpg",
+        "w": 1600,
+        "h": 855,
+        "size": 138566
+      }
+    ]
+  },
+  "animation": {
+    "label": "Animation",
+    "items": [
+      {
+        "src": "assets/animation/109-colourkeys-ah.jpg",
+        "w": 1600,
+        "h": 1194,
+        "size": 196110
+      },
+      {
+        "src": "assets/animation/art-art-arcadegame-dancemachineherofront.jpg",
+        "w": 1600,
+        "h": 969,
+        "size": 164915
+      },
+      {
+        "src": "assets/animation/dl-ext-boardwalk-beach-a.jpg",
+        "w": 1600,
+        "h": 936,
+        "size": 156619
+      },
+      {
+        "src": "assets/animation/dl-ext-park-basketball-a.jpg",
+        "w": 1600,
+        "h": 936,
+        "size": 167297
+      },
+      {
+        "src": "assets/animation/dl-int-halloween-maze-a-construction-6.jpg",
+        "w": 1600,
+        "h": 640,
+        "size": 143647
+      },
+      {
+        "src": "assets/animation/dl-int-mila-bedroom-a-3.jpg",
+        "w": 1600,
+        "h": 527,
+        "size": 107275
+      },
+      {
+        "src": "assets/animation/dl-int-mila-bedroom-messy-a.jpg",
+        "w": 1600,
+        "h": 901,
+        "size": 160787
+      },
+      {
+        "src": "assets/animation/darktunnelasc2.jpg",
+        "w": 1600,
+        "h": 1035,
+        "size": 118014
+      },
+      {
+        "src": "assets/animation/glnight-wip2-preview.jpg",
+        "w": 1600,
+        "h": 320,
+        "size": 51372
+      },
+      {
+        "src": "assets/animation/img-20150108-021305flat2.jpg",
+        "w": 1461,
+        "h": 822,
+        "size": 183521
+      },
+      {
+        "src": "assets/animation/kolkstree4.jpg",
+        "w": 1600,
+        "h": 694,
+        "size": 199335
+      },
+      {
+        "src": "assets/animation/limboquad-v2.jpg",
+        "w": 1600,
+        "h": 836,
+        "size": 85416
+      },
+      {
+        "src": "assets/animation/limbotexturecolor-v2.jpg",
+        "w": 1600,
+        "h": 989,
+        "size": 84136
+      },
+      {
+        "src": "assets/animation/mor-123-prop-design-dp-vhc-int-pet-mobile-a-3.jpg",
+        "w": 1600,
+        "h": 499,
+        "size": 111863
+      },
+      {
+        "src": "assets/animation/untitled-3.jpg",
+        "w": 680,
+        "h": 510,
+        "size": 59825
+      },
+      {
+        "src": "assets/animation/bg-corn-field-01-key.jpg",
+        "w": 1600,
+        "h": 884,
+        "size": 250368
+      },
+      {
+        "src": "assets/animation/bg-ext-peg-house-03-m-color-v05-up.jpg",
+        "w": 1600,
+        "h": 962,
+        "size": 195444
+      },
+      {
+        "src": "assets/animation/bg-school-hall-09-color-v02-up-char.jpg",
+        "w": 1600,
+        "h": 728,
+        "size": 187224
+      },
+      {
+        "src": "assets/animation/bg-waterslide-01-color-v03-up-char-sml.jpg",
+        "w": 1600,
+        "h": 1028,
+        "size": 274576
+      },
+      {
+        "src": "assets/animation/colorscript-tab-v8.jpg",
+        "w": 1600,
+        "h": 1435,
+        "size": 288283
+      },
+      {
+        "src": "assets/animation/il-polaris-darktunnela-texture.jpg",
+        "w": 1600,
+        "h": 1168,
+        "size": 205052
+      },
+      {
+        "src": "assets/animation/q070s0010-v1.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 365718
+      },
+      {
+        "src": "assets/animation/q120s0010-v2.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 218604
+      },
+      {
+        "src": "assets/animation/q175s0010.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 123323
+      },
+      {
+        "src": "assets/animation/q210s0030-v2.jpg",
+        "w": 1600,
+        "h": 845,
+        "size": 139467
+      },
+      {
+        "src": "assets/animation/q350s0260-v3.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 334130
+      },
+      {
+        "src": "assets/animation/q430s0160-v7.jpg",
+        "w": 1600,
+        "h": 845,
+        "size": 182499
+      },
+      {
+        "src": "assets/animation/spasm0033.jpg",
+        "w": 1431,
+        "h": 802,
+        "size": 112099
+      },
+      {
+        "src": "assets/animation/texture-callout-v2.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 155435
+      }
+    ]
+  },
+  "games": {
+    "label": "Games",
+    "items": [
+      {
+        "src": "assets/games/bordernew.jpg",
+        "w": 1600,
+        "h": 591,
+        "size": 114286
+      },
+      {
+        "src": "assets/games/dndgarg3.jpg",
+        "w": 1600,
+        "h": 473,
+        "size": 45515
+      },
+      {
+        "src": "assets/games/druidsfinal.jpg",
+        "w": 1044,
+        "h": 631,
+        "size": 61628
+      },
+      {
+        "src": "assets/games/freezeray2.jpg",
+        "w": 1430,
+        "h": 554,
+        "size": 142840
+      },
+      {
+        "src": "assets/games/freezerayortho.jpg",
+        "w": 1600,
+        "h": 476,
+        "size": 79595
+      },
+      {
+        "src": "assets/games/gammaworld2.jpg",
+        "w": 1600,
+        "h": 908,
+        "size": 214314
+      },
+      {
+        "src": "assets/games/gammaworld2a.jpg",
+        "w": 1600,
+        "h": 998,
+        "size": 230794
+      },
+      {
+        "src": "assets/games/gammaworld3.jpg",
+        "w": 1600,
+        "h": 929,
+        "size": 268027
+      },
+      {
+        "src": "assets/games/sa-ca-level-forest2.jpg",
+        "w": 1572,
+        "h": 1304,
+        "size": 156715
+      },
+      {
+        "src": "assets/games/sliceedit.jpg",
+        "w": 1600,
+        "h": 1200,
+        "size": 197762
+      },
+      {
+        "src": "assets/games/towerruinsa.jpg",
+        "w": 1600,
+        "h": 878,
+        "size": 184207
+      },
+      {
+        "src": "assets/games/zhentcampsm.jpg",
+        "w": 1187,
+        "h": 388,
+        "size": 65481
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-07.jpg",
+        "w": 1138,
+        "h": 646,
+        "size": 65845
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-13.jpg",
+        "w": 884,
+        "h": 546,
+        "size": 88876
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-14.jpg",
+        "w": 990,
+        "h": 675,
+        "size": 64457
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-15.jpg",
+        "w": 1108,
+        "h": 656,
+        "size": 116616
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-16.jpg",
+        "w": 611,
+        "h": 875,
+        "size": 84523
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-18.jpg",
+        "w": 711,
+        "h": 1101,
+        "size": 36974
+      },
+      {
+        "src": "assets/games/brian-su-art-pg-19.jpg",
+        "w": 857,
+        "h": 637,
+        "size": 84841
+      },
+      {
+        "src": "assets/games/gatesvariations.jpg",
+        "w": 1023,
+        "h": 1193,
+        "size": 218742
+      },
+      {
+        "src": "assets/games/kok-ca-mood-lush-ruins-ui.jpg",
+        "w": 864,
+        "h": 1600,
+        "size": 229001
+      },
+      {
+        "src": "assets/games/lanterns2update-copy.jpg",
+        "w": 1600,
+        "h": 670,
+        "size": 82043
+      },
+      {
+        "src": "assets/games/lobbyalternate1.jpg",
+        "w": 1600,
+        "h": 579,
+        "size": 164851
+      },
+      {
+        "src": "assets/games/medlabrender.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 159025
+      },
+      {
+        "src": "assets/games/sensenetvars.jpg",
+        "w": 866,
+        "h": 1600,
+        "size": 105326
+      },
+      {
+        "src": "assets/games/train.jpg",
+        "w": 1600,
+        "h": 512,
+        "size": 141860
+      }
+    ]
+  },
+  "illustration": {
+    "label": "Illustration",
+    "items": [
+      {
+        "src": "assets/illustration/blueglow.jpg",
+        "w": 1143,
+        "h": 1600,
+        "size": 191763
+      },
+      {
+        "src": "assets/illustration/dreamachine.jpg",
+        "w": 1500,
+        "h": 1500,
+        "size": 393485
+      },
+      {
+        "src": "assets/illustration/ghostsmalla.jpg",
+        "w": 583,
+        "h": 1000,
+        "size": 58307
+      },
+      {
+        "src": "assets/illustration/musicoutofreason.jpg",
+        "w": 1271,
+        "h": 1600,
+        "size": 252399
+      }
+    ]
+  },
+  "matte_painting": {
+    "label": "Matte Painting",
+    "items": [
+      {
+        "src": "assets/matte_painting/010-0050-test.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 225586
+      },
+      {
+        "src": "assets/matte_painting/ds-sunset-skydome-copy.jpg",
+        "w": 1600,
+        "h": 1259,
+        "size": 44584
+      },
+      {
+        "src": "assets/matte_painting/establishingshot.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 201466
+      },
+      {
+        "src": "assets/matte_painting/glnight-wip2-preview.jpg",
+        "w": 1600,
+        "h": 320,
+        "size": 51372
+      },
+      {
+        "src": "assets/matte_painting/ib-desert-crop.jpg",
+        "w": 1600,
+        "h": 448,
+        "size": 21084
+      },
+      {
+        "src": "assets/matte_painting/streetsceneedit.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 157125
+      },
+      {
+        "src": "assets/matte_painting/art-skydome-iceworld.jpg",
+        "w": 1600,
+        "h": 878,
+        "size": 30476
+      },
+      {
+        "src": "assets/matte_painting/comic-store-wip.jpg",
+        "w": 1600,
+        "h": 844,
+        "size": 185502
+      },
+      {
+        "src": "assets/matte_painting/e103q110s1030-cmp-v0001-wip-copy.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 113714
+      },
+      {
+        "src": "assets/matte_painting/image-2.jpg",
+        "w": 1066,
+        "h": 595,
+        "size": 137660
+      },
+      {
+        "src": "assets/matte_painting/matte1-75a.jpg",
+        "w": 1327,
+        "h": 700,
+        "size": 113152
+      },
+      {
+        "src": "assets/matte_painting/matte2-75.jpg",
+        "w": 1352,
+        "h": 713,
+        "size": 126511
+      },
+      {
+        "src": "assets/matte_painting/q070s0010-v1.jpg",
+        "w": 1600,
+        "h": 900,
+        "size": 365718
+      }
+    ]
+  }
+}

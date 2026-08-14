@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brian Su — Concept Artist &amp; Matte Painter</title>
+  <meta name="description" content="Concept design and visual development for film, animation and games by Brian Su.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ======================= NAV ======================= -->
+  <header class="nav">
+    <a href="#home" class="brand">Brian<span>Su</span></a>
+    <nav class="nav-links">
+      <a href="#home">Home</a>
+      <a href="#work">Work</a>
+      <a href="#animation">Animation</a>
+      <a href="#games">Games</a>
+      <a href="#illustration">Illustration</a>
+      <a href="#matte">Matte</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a href="#contact" class="nav-cta">Start a project</a>
+  </header>
+
+  <!-- ======================= HERO ======================= -->
+  <section id="home" class="hero">
+    <div class="hero-inner">
+      <p class="hero-kicker">Visual Development · Matte Painting · Game Art</p>
+      <h1 class="hero-title">Imagining worlds,<br>one <em>painted frame</em> at a time.</h1>
+      <p class="hero-sub">Concept design and visual development for film, animation and games.</p>
+      <div class="hero-actions">
+        <a href="#work" class="btn btn-primary">View selected work</a>
+        <a href="#contact" class="btn btn-ghost">Get in touch</a>
+      </div>
+    </div>
+    <a href="#work" class="hero-scroll" aria-label="Scroll to work">Scroll</a>
+  </section>
+
+  <!-- ======================= SELECTED WORK ======================= -->
+  <section id="work" class="section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">01</p>
+        <h2 class="section-title">Selected Work</h2>
+      </div>
+      <span class="section-count" id="work-count"></span>
+    </div>
+    <div class="grid" id="grid-work"></div>
+  </section>
+
+  <!-- ======================= ANIMATION ======================= -->
+  <section id="animation" class="section section-alt">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">02</p>
+        <h2 class="section-title">Animation</h2>
+      </div>
+      <span class="section-count" id="animation-count"></span>
+    </div>
+    <div class="grid" id="grid-animation"></div>
+  </section>
+
+  <!-- ======================= GAMES ======================= -->
+  <section id="games" class="section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">03</p>
+        <h2 class="section-title">Games</h2>
+      </div>
+      <span class="section-count" id="games-count"></span>
+    </div>
+    <div class="grid" id="grid-games"></div>
+  </section>
+
+  <!-- ======================= ILLUSTRATION ======================= -->
+  <section id="illustration" class="section section-alt">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">04</p>
+        <h2 class="section-title">Illustration</h2>
+      </div>
+      <span class="section-count" id="illustration-count"></span>
+    </div>
+    <div class="grid" id="grid-illustration"></div>
+  </section>
+
+  <!-- ======================= MATTE PAINTING ======================= -->
+  <section id="matte" class="section">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">05</p>
+        <h2 class="section-title">Matte Painting</h2>
+      </div>
+      <span class="section-count" id="matte-count"></span>
+    </div>
+    <div class="grid" id="grid-matte"></div>
+  </section>
+
+  <!-- ======================= CONTACT ======================= -->
+  <section id="contact" class="section contact">
+    <div class="contact-inner">
+      <p class="eyebrow">Contact</p>
+      <h2 class="section-title">Let's build a world together.</h2>
+      <p class="section-lead">Available for film, animation, and game productions — short-term and long-term roles welcome.</p>
+      <a class="btn btn-primary btn-lg" href="mailto:brian.gl.su@gmail.com">brian.gl.su@gmail.com</a>
+      <div class="socials">
+        <a href="https://www.linkedin.com/in/brian-su-365664123" aria-label="LinkedIn">LinkedIn</a>
+        <a href="https://www.instagram.com/brian.su/" aria-label="Instagram">Instagram</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>© <span id="year"></span> Brian Su. All artwork is the property of the artist and respective studios.</p>
+  </footer>
+
+  <!-- ======================= LIGHTBOX ======================= -->
+  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-label="Image viewer">
+    <button class="lb-close" id="lightbox-close" aria-label="Close"></button>
+    <button class="lb-arrow lb-prev" id="lightbox-prev" aria-label="Previous">&#8249;</button>
+    <div class="lightbox-stage">
+      <img id="lightbox-img" alt="" />
+    </div>
+    <button class="lb-arrow lb-next" id="lightbox-next" aria-label="Next">&#8250;</button>
+    <div class="lightbox-index" id="lightbox-index"></div>
+  </div>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="assets/manifest.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
